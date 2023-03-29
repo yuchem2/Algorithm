@@ -1,6 +1,8 @@
 # [BOJ] 번 ()
 백준온라인저지(BOJ) https://www.acmicpc.net/
+
 ID: yuchem2
+
 Date: 
 ## 1. 문제설명
 | 시간 제한 | 메모리 제한 | 제출  | 정답 | 맞은 사람 | 정답 비율 |
