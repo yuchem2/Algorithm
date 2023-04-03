@@ -1,4 +1,8 @@
-# 백준 온라인 저지(BOJ) https://www.acmicpc.net/
+# Algorithm 공부
+
++ [2023.03.03] Algorithm 공부 시작(BOJ 단계 별 문제풀이)
+
+## 백준 온라인 저지(BOJ) https://www.acmicpc.net/
 
 ID: yuchem2
 
