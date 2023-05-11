@@ -1,4 +1,4 @@
-# Algorithm 공부
+# Algorithm Study
 
 + [2023.03.03] Algorithm 공부 시작(BOJ 단계 별 문제풀이)
 
