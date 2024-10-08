@@ -1,5 +1,5 @@
 # [Programmers] [PCCP 기출문제] 4번 수식 복원하기 (PYTHON)
-Programmers 코딩테스트 연습: 
+Programmers 코딩테스트 연습: https://school.programmers.co.kr/learn/courses/30/lessons/340210
 
 ID: yuchem2@gmail.com
 
